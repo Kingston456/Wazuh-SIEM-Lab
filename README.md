@@ -4,7 +4,7 @@ A hands-on homelab simulating real-world attack detection and compliance hardeni
 
 ### 📋 Project Overview
 
-This lab demonstrates end-to-end security monitoring: simulating a brute-force attack, detecting it with custom Wazuh rules, and hardening the target system against SCA failures. All findings are mapped to industry frameworks used in GRC and compliance roles.
+This lab demonstrates end-to-end security monitoring: simulating a brute-force attack, and detecting it with custom Wazuh rules. All findings are mapped to industry frameworks used in GRC and compliance roles.
 
 ### Lab Environment:
 
