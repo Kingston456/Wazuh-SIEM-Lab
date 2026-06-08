@@ -27,7 +27,7 @@ Simulate a credential-stuffing attack and detect it using custom Wazuh detection
 
 **3. Created Custom Wazuh detection rules** (Rule IDs 100001–100004) in XML targeting SSH authentication failures and brute-force thresholds
 
-**4. Ran a Hydra Brute-Force Attack** from Kali Linux against Metasploitable 3 over SSH
+**4. Ran a Hydra Brute-Force Attack** from Ubuntu terminal against Metasploitable 3 over SSH
 
 **5. Confirmed detection** in Wazuh Security Events dashboard — alerts fired as expected
 
