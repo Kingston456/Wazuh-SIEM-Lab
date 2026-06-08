@@ -31,7 +31,7 @@ Simulate a credential-stuffing attack and detect it using custom Wazuh detection
 
 **5. Confirmed detection** in Wazuh Security Events dashboard — alerts fired as expected
 
-**6. Mapped Findings** to MITRE ATT&CK and NIST SP 800-53
+**6. Mapped Findings** to MITRE ATT&CK, NIST SP 800-53, and NIST CSF 2.0
 
 ### Framework Mapping
 
