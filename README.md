@@ -11,7 +11,7 @@ This lab demonstrates end-to-end security monitoring: simulating a brute-force a
 ### Component
 - **Host OS**- Ubuntu 25.04
 - **SIEM** - Wazuh 4.x (Server IP: 172.16.0.10)
-- **Attacker** - Kali Linux
+- **Attacker** - Ubuntu
 - **Target** - Metasploitable 3 (172.16.0.12)
 - **Network** - Bridged Adapter + NAT
 
@@ -49,5 +49,19 @@ Simulate a credential-stuffing attack and detect it using custom Wazuh detection
 
   ### Screenshots
 
+  <img width="959" height="598" alt="SSH Meta" src="https://github.com/user-attachments/assets/151d82e8-28a8-46b8-a6c4-eed827f8bb8d"
+ />
+
+<img width="959" height="599" alt="Agents" src="https://github.com/user-attachments/assets/e84b3147-a3e4-4743-921d-df408c86c187" />
+
+<img width="959" height="530" alt="rules" src="https://github.com/user-attachments/assets/1c911b2e-584e-46df-b690-18d760f32221" />
+
+<img width="949" height="599" alt="SSH   Brute Fore" src="https://github.com/user-attachments/assets/a7937bcb-97a0-4782-9249-cd40ec771c7f" />
+
+<img width="473" height="466" alt="rule ID" src="https://github.com/user-attachments/assets/eb956359-fbb3-413e-a150-c82a67265990" />
+
+<img width="498" height="518" alt="SSH details" src="https://github.com/user-attachments/assets/1899824b-d4ae-4387-b882-b464bc7e8b3d" />
+
+<img width="668" height="503" alt="MITRE" src="https://github.com/user-attachments/assets/034eefd9-3b33-45ec-9d79-8afa3f71a17d" />
 
 
