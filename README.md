@@ -23,15 +23,15 @@ Simulate a credential-stuffing attack and detect it using custom Wazuh detection
 
 **1. SSH into Metasploitable 3** VM using Command Prompt
 
-**2. Installed and deployed** Wazuh agents on Ubuntu (172.16.0.11) and Metasploitable 3 (172.16.0.12) VM's 
+**2. Installed and deployed** Wazuh agents on Ubuntu (172.16.0.11) and Metasploitable 3 (172.16.0.12) VMs 
 
-**3. Created Custom Wazuh detection rules** (Rule IDs 100001–100004) in XML targeting SSH authentication failures and brute-force thresholds
+**3. Created custom Wazuh detection rules** (Rule IDs 100001–100004) in XML targeting SSH authentication failures and brute-force thresholds
 
-**4. Ran a Hydra Brute-Force Attack** from Ubuntu terminal against Metasploitable 3 over SSH
+**4. Ran a Hydra brute-force Attack** from Ubuntu terminal against Metasploitable 3 over SSH
 
 **5. Confirmed detection** in Wazuh Security Events dashboard — alerts fired as expected
 
-**6. Mapped Findings** to MITRE ATT&CK, NIST SP 800-53, and NIST CSF 2.0
+**6. Mapped findings** to MITRE ATT&CK, NIST SP 800-53, and NIST CSF 2.0
 
 ### Framework Mapping
 
